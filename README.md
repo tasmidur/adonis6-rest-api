@@ -15,3 +15,4 @@ This project is an example of implementing key features in AdonisJS 6 for REST A
 
 ## Requirements:
 - **Node.js** >= 20.6
+- ![vineJs a robust validation library](https://vinejs.dev/docs/introduction)
